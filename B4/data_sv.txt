@@ -1,0 +1,25 @@
+2151010002
+Nguyen Tien Dat
+Dong Thap
+02/03/2003
+7 8 9
+2151010005
+Do Thao Duyen
+Vinh Long
+09/06/2003
+8 7 9
+2151010004
+Pham Huu Quyet
+An Giang
+13/09/2003
+5 6 5
+2151010001
+Nguyen Van Nam
+Khanh Hoa
+03/05/2003
+8 7 7
+2151010003
+Quach Gia Hung
+Bien Hoa
+01/01/2003
+5 6 5
