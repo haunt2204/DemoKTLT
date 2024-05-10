@@ -1,0 +1,31 @@
+5
+2151010002
+Nguyen Tien Dat
+DH23CS01
+Dong Thap
+02/03/2003
+7 8 9
+2151010005
+Do Thao Anh
+DH23CS02
+Vinh Long
+09/06/2003
+8 7 9
+2151010004
+Pham Hoang Anh
+DH23CS01
+An Giang
+13/09/2003
+5 6 5
+2151010001
+Nguyen Van Nam
+DH23CS02
+Khanh Hoa
+03/05/2003
+8 7 7
+2151010003
+Quach Gia Hung
+DH23CS02
+Bien Hoa
+01/01/2003
+5 6 5
